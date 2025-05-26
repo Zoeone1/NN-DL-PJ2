@@ -14,4 +14,8 @@ landscape-contrast：导入训练历史，绘制VGG_A模型和VGG_A_BatchNorm模
 
 VGG_Loss_Landscape_contrast.py：导入训练历史，绘制VGG_A模型和VGG_A_BatchNorm模型的landscape对比图.
 
+模型权重解释：
 
+VGG_A_Dropout_best_model-L2loss.pth: 为任务一最优参数组合模型训练的权重。
+
+VGG_A_BatchNorm_best_model.pth: 为任务二最优学习率带BN模型训练的权重。
